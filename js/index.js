@@ -8,6 +8,6 @@ if (name === "Susan") {
   console.log("The name is 
   correct")
 } else {
-  console.log("Expected The
-  name to be susan")
+  console.log("Expected the
+  name to be Susan")
 }
